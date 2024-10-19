@@ -1,0 +1,5 @@
+{
+  "source": "vpn_service",
+  "new_user_url": "http://fonexsoftware.com/newuser/edge/vpnservice",
+  "uninstall_url": "http://fonexsoftware.com/olduser/edge/bybyvpnservice/"
+}
