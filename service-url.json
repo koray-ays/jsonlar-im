@@ -1,17 +1,43 @@
 {
-  "source": "edgevpn-onddiefpimhkkllekgmhoahfphkhhcao",
-  "urls": [
+  "sources": [
     {
-      "new_user_url": "https://fegiy.com/",
-      "uninstall_url": "https://fegiy.com/"
+      "source": "edgevpn-onddiefpimhkkllekgmhoahfphkhhcao",
+      "urls": [
+        {
+          "new_user_url": "https://fegiy.com/",
+          "uninstall_url": "https://fegiy.com/"
+        },
+        {
+          "new_user_url": "https://fegiy.com/another-link",
+          "uninstall_url": "https://fegiy.com/uninstall-another"
+        }
+      ]
     },
     {
-      "new_user_url": "https://fegiy.com/",
-      "uninstall_url": "https://fegiy.com/"
+      "source": "another-extension-id",
+      "urls": [
+        {
+          "new_user_url": "https://example1.com/",
+          "uninstall_url": "https://example1.com/uninstall"
+        },
+        {
+          "new_user_url": "https://example1.com/another-page",
+          "uninstall_url": "https://example1.com/uninstall-another"
+        }
+      ]
     },
     {
-      "new_user_url": "https://fegiy.com/",
-      "uninstall_url": "https://fegiy.com/"
+      "source": "yet-another-extension-id",
+      "urls": [
+        {
+          "new_user_url": "https://example2.com/",
+          "uninstall_url": "https://example2.com/uninstall"
+        },
+        {
+          "new_user_url": "https://example2.com/extra-page",
+          "uninstall_url": "https://example2.com/uninstall-extra"
+        }
+      ]
     }
   ]
 }
