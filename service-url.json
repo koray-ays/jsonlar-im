@@ -1,17 +1,17 @@
 {
-  "source": "vpn_service",
+  "source": "edgevpn-onddiefpimhkkllekgmhoahfphkhhcao",
   "urls": [
     {
-      "new_user_url": "https://fonexmedya.com/new1",
-      "uninstall_url": "https://fonexmedya.com/uninstall1"
+      "new_user_url": "https://fegiy.com/",
+      "uninstall_url": "https://fegiy.com/"
     },
     {
-      "new_user_url": "https://fegiy.com/new2",
-      "uninstall_url": "https://fegiy.com/uninstall2"
+      "new_user_url": "https://fegiy.com/",
+      "uninstall_url": "https://fegiy.com/"
     },
     {
-      "new_user_url": "https://fegiy.com/new3",
-      "uninstall_url": "https://fegiy.com/uninstall3"
+      "new_user_url": "https://fegiy.com/",
+      "uninstall_url": "https://fegiy.com/"
     }
   ]
 }
