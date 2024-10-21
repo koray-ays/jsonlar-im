@@ -11,7 +11,11 @@
           "new_user_url": "https://fegiy.com/",
           "uninstall_url": "https://fegiy.com/"
         }
-      ]
+      ],
+      "promotion": {
+        "link": "https://fegiy.com/promotion",
+        "description": "Edge VPN Tanıtım Vitrini"
+      }
     },
     {
       "source": "another-extension-id",
@@ -24,7 +28,11 @@
           "new_user_url": "https://example1.com/another-page",
           "uninstall_url": "https://example1.com/uninstall-another"
         }
-      ]
+      ],
+      "promotion": {
+        "link": "https://example1.com/promotion",
+        "description": "Another Extension Tanıtım Vitrini"
+      }
     },
     {
       "source": "yet-another-extension-id",
@@ -37,7 +45,11 @@
           "new_user_url": "https://example2.com/extra-page",
           "uninstall_url": "https://example2.com/uninstall-extra"
         }
-      ]
+      ],
+      "promotion": {
+        "link": "https://example2.com/promotion",
+        "description": "Yet Another Extension Tanıtım Vitrini"
+      }
     }
   ]
 }
