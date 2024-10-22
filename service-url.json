@@ -18,7 +18,7 @@
       }
     },
     {
-      "source": "another-extension-id",
+      "source": "edge-equalizer-jjbpmclalbkhmkljjdhmgjkglbkflhld",
       "urls": [
         {
           "new_user_url": "https://example1.com/",
@@ -30,8 +30,8 @@
         }
       ],
       "promotion": {
-        "link": "https://example1.com/promotion",
-        "description": "Another Extension Tanıtım Vitrini"
+        "link": "https://microsoftedge.microsoft.com/addons/search?developer=Fonexsoftware",
+        "description": "edge equalizer"
       }
     },
     {
