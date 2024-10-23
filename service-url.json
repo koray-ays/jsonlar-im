@@ -14,7 +14,9 @@
       ],
       "promotion": {
         "edge-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "edge-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
         "chrome-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        
         "description": "Edge VPN Tanıtım Vitrini"
       }
     },
@@ -38,6 +40,9 @@
         }
       ],
       "promotion": {
+        "edge-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "edge-buttons-link": "https://google.com",
+        "chrome-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
         "link": "https://microsoftedge.microsoft.com/addons/search?developer=Fonexsoftware",
         "description": "edge equalizer"
       }
@@ -58,6 +63,9 @@
         }
       ],
       "promotion": {
+         "edge-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "edge-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "chrome-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
         "link": "https://example2.com/promotion",
         "description": "Yet Another Extension Tanıtım Vitrini"
       }
