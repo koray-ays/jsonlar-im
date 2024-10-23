@@ -13,7 +13,8 @@
         }
       ],
       "promotion": {
-        "link": "https://microsoftedge.microsoft.com/addons/search?developer=Fonexsoftware",
+        "edge-link": "https://microsoftedge.microsoft.com/addons/search?developer=Fonexsoftware",
+        "chrome-link": "https://microsoftedge.microsoft.com/addons/search?developer=Fonexsoftware",
         "description": "Edge VPN Tanıtım Vitrini"
       }
     },
