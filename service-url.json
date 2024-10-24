@@ -53,24 +53,22 @@
 
     
     {
-      "source": "yet-another-extension-id",
+      "source": "all-page-buttons",
       "urls": [
         {
-          "new_user_url": "https://example2.com/",
-          "uninstall_url": "https://example2.com/uninstall"
+          "new_user_url": "",
+          "uninstall_url": ""
         },
         {
-          "new_user_url": "https://example2.com/extra-page",
-          "uninstall_url": "https://example2.com/uninstall-extra"
+          "new_user_url": "",
+          "uninstall_url": ""
         }
       ],
       "promotion": {
-         "edge-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "description": "google , youtube Vitrin Butonları",
         "edge-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        "chrome-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        "chrome-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        "link": "https://example2.com/promotion",
-        "description": "Yet Another Extension Tanıtım Vitrini"
+        "chrome-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html"
+        
       }
     }
   ]
