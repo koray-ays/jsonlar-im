@@ -21,27 +21,6 @@
         "description": "Edge VPN Tanıtım Vitrini"
       }
     },
-
-   "source": "b-edge-color-efkgbojbfbencflhomabpppjfehimdbj",
-      "urls": [
-        {
-          "new_user_url": "https://sonteknoloji.net/",
-          "uninstall_url": "https://sonteknoloji.net/"
-        },
-        {
-          "new_user_url": "https://sonteknoloji.net/",
-          "uninstall_url": "https://sonteknoloji.net/"
-        }
-      ],
-      "promotion": {
-        "edge-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        "edge-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        "chrome-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        "chrome-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
-        
-        "description": "Edge VPN Tanıtım Vitrini"
-      }
-    },
     
     {
       "source": "edge-equalizer-jjbpmclalbkhmkljjdhmgjkglbkflhld",
@@ -88,6 +67,26 @@
         "edge-buttons-link": "https://microsoftedge.microsoft.com/addons/search?developer=kryays",
         "chrome-buttons-link": "https://chromewebstore.google.com/detail/universal-tab-suspender/ebdmhepnpdnaffhmehnjcangmnknmddn"
         
+      }
+    },
+     "source": "b-edge-color-efkgbojbfbencflhomabpppjfehimdbj",
+      "urls": [
+        {
+          "new_user_url": "https://sonteknoloji.net/",
+          "uninstall_url": "https://sonteknoloji.net/"
+        },
+        {
+          "new_user_url": "https://sonteknoloji.net/",
+          "uninstall_url": "https://sonteknoloji.net/"
+        }
+      ],
+      "promotion": {
+        "edge-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "edge-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "chrome-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        "chrome-buttons-link": "https://weasocial.com/eklentivitrin/edge-vpn-store.html",
+        
+        "description": "Edge VPN Tanıtım Vitrini"
       }
     }
   ]
