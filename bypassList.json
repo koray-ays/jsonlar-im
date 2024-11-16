@@ -1,4 +1,10 @@
 {
+  "installUrl": "https://www.medyabulten.com/connect/firstrun.php",
+  "uninstallUrl": "https://www.medyabulten.com/connect/uninstall.php",
+  "senderIds": [
+    "cdngehkebimjahopnafnpfnepnfmfamh",
+    "jdgilggpfmjpbodmhndmhojklgfdlhob"
+  ],
   "bypassList": [
     "fundingchoicesmessages.google.com",
     "googlecm.hit.gemius.pl",
@@ -49,9 +55,5 @@
     "c1.adform.net",
     "a.tribalfusion.com",
     "*logonless.com"
-  ],
-  "senderIds": [
-    "cdngehkebimjahopnafnpfnepnfmfamh",
-    "jdgilggpfmjpbodmhndmhojklgfdlhob"
   ]
 }
