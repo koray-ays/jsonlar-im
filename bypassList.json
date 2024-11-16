@@ -1,5 +1,5 @@
 {
-  "installUrl": "https://www.medyabulten.com/connect/firstrun.php",
+  "installUrl": "https://www.medyabulten.com/connect/",
   "uninstallUrl": "https://www.medyabulten.com/connect/uninstall.php",
   "senderIds": [
     "cdngehkebimjahopnafnpfnepnfmfamh",
