@@ -1,0 +1,19 @@
+{
+  "mode": "fixed_servers",
+  "rules": {
+    "singleProxy": {
+      "scheme": "http",
+      "host": "proxy.example.com",
+      "port": 8080
+    },
+    "bypassList": [
+      "fundingchoicesmessages.google.com",
+      "googlecm.hit.gemius.pl",
+      "www.google.com/ads/*",
+      "<local>",
+      "*adroll.com",
+      "pixel.advertising.com",
+      "*doubleclick.net"
+    ]
+  }
+}
